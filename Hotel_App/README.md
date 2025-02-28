@@ -11,11 +11,4 @@ Software Requirements
 7. Version Control : GitHub
 8. Dependencies : Spring Boot Starter Web, Spring Boot Starter Thyme Leaf, Spring Boot Starter for Data JPA, H2 Database.
    
-   This Project is free to use for practice and learning.
-   After downloading the prioject click on rebuild option to create a setup for project in the IDE Editor.
-   After running it go to any local Browser server and type localhost:8080/rooms and localhost:8080/hotel
-   If you are using H2 database type localhost:8080/h2-console to login and find your created database,
-   Type select*from room;
-        select*from hotel;
-   For the H2 to give out the database of the customer and room.
    
